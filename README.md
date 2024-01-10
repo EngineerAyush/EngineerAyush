@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3200/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)
 <h1 align="center">Hi 👋, I'm Ayushman Pandey</h1>
-<h3 align="center">A passionate WebSite, Game-Developer from India</h3>
+<h3 align="center">An Engineering Gamer Student!!</h3>
 <img align="right" alt ="Gamer" width ="400" src="https://gifdb.com/images/high/kyle-broflovs-gaming-time-f22haqdjp7bbbgi1.webp">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engineerayush" alt="engineerayush" /></a> </p>
 
